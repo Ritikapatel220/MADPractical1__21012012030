@@ -1,10 +1,19 @@
-fun main(){
-    var a = arrayOf(6,5,4,3,2,1)
-    var temp = 0
-    for (i in 0..a.size-1){
-        if(temp<a[i]){
-            temp=a[i]
+fun findmax(a:Array<Int>) {
+    var max = a[0]
+    var count = 0
+    for (i in a) {
+        println("ar[$count] = $i")
+        if (i > max) {
+            max = i
         }
+        count++
     }
-    print("largest value=$temp")
+    println("largest number is:")
+    println(max)
+}
+fun main()
+{
+    var a = arrayOf(57, 90, 10, 13, 5, 14)
+    findmax(a)
+
 }
