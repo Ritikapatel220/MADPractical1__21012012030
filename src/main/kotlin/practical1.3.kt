@@ -24,6 +24,4 @@ fun main (){
     println("Collage Name:$cn")
     println("University Name:$un")
     println("Age:$age")
-
-
 }
