@@ -1,7 +1,7 @@
 # MADPractical1__21012012030!
 Aim:Kotlin Programs
 1.1 Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
-[p1 1](https://user-images.githubusercontent.com/111005666/184602262-99f9116f-fd06-4b29-9389-581cb1b63700.JPG)
+![p1 1](https://user-images.githubusercontent.com/111005666/184602262-99f9116f-fd06-4b29-9389-581cb1b63700.JPG)
 1.2 Type conversion:
 Integer to Double, String to Integer, String to Double.
 ![p1 2](https://user-images.githubusercontent.com/111005666/184639105-f87df7d1-eb75-42d6-8d8b-44f69a233af9.JPG)
